@@ -2,7 +2,6 @@
 Fake News Classifier:
 By: Pinky Chauhan (University of Illinois at Urbana Champaign)
 
-Overview:
 This objective of this project is to build a classifier system based on machine learning that is able to identify fake news from real/reliable news given a news title and/or news text content as the input. Such a tool can be integrated with social media platforms to flag potentially fake articles or filter those out.
 This is essentially a data categorization problem where I have trained several classifier models on the following dataset from Kaggle:
 https://www.kaggle.com/c/fake-news/data
@@ -11,5 +10,5 @@ The classifier takes a news article (title and text) as input and provides a pre
 -	Fake News
 -	Reliable News
 
-Final Project report/documentation: https://github.com/pinkychauhan89/CourseProject/blob/main/ProgressReport.pdf
+Final Project report/documentation: https://github.com/pinkychauhan89/CourseProject/blob/main/ProjectReport.pdf
 Presentation:https://github.com/pinkychauhan89/CourseProject/blob/main/Presentation.pptx
