@@ -11,5 +11,5 @@ The classifier takes a news article (title and text) as input and provides a pre
 -	Fake News
 -	Reliable News
 
-Final Project report:
-Presentation:
+Final Project report/documentation: https://github.com/pinkychauhan89/CourseProject/blob/main/ProgressReport.pdf
+Presentation:https://github.com/pinkychauhan89/CourseProject/blob/main/Presentation.pptx
